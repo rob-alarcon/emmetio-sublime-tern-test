@@ -1,0 +1,1763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"require",
+				"require(deps, callback, errback, optional)"
+			],
+			[
+				"pre",
+				"prepend()"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"acti",
+				"activeChoice"
+			],
+			[
+				"choi",
+				"choiceId"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"date",
+				"datepicker_recurring_start"
+			],
+			[
+				"field",
+				"fieldId"
+			],
+			[
+				"ac",
+				"activeQuestion"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"is",
+				"iso2"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"count",
+				"countries"
+			],
+			[
+				"selec",
+				"selectedCountry"
+			],
+			[
+				"sele",
+				"selectedCountry"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"invitatio",
+				"invitationsToPresent"
+			],
+			[
+				"invi",
+				"invitationsa"
+			],
+			[
+				"i",
+				"_i360"
+			],
+			[
+				"filt",
+				"filter"
+			],
+			[
+				"countri",
+				"countriesValue"
+			],
+			[
+				"cda",
+				"cdaStatusValue"
+			],
+			[
+				"surveysta",
+				"surveyStatusValue"
+			],
+			[
+				"cv",
+				"cvStatusValue"
+			],
+			[
+				"sur",
+				"surveyStatus"
+			],
+			[
+				"value",
+				"statesValue"
+			],
+			[
+				"mo",
+				"_model"
+			],
+			[
+				"pro",
+				"propt"
+			],
+			[
+				"_",
+				"_i360"
+			],
+			[
+				"tabl",
+				"tableHeight"
+			],
+			[
+				"tab",
+				"tableHeight"
+			],
+			[
+				"sr",
+				"src"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"table",
+				"table-container"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"click",
+				"clickedElementContentType"
+			],
+			[
+				"view",
+				"viewModelRow"
+			],
+			[
+				"call",
+				"callBackToCreateViewModel"
+			],
+			[
+				"activityAut",
+				"activityAuthorizationIndex"
+			],
+			[
+				"some",
+				"someLocochonVariable"
+			],
+			[
+				"turi",
+				"turiProp"
+			],
+			[
+				"aja",
+				"ajaxApi"
+			],
+			[
+				"strin",
+				"stringPairToObject"
+			],
+			[
+				"spli",
+				"splitedArray"
+			],
+			[
+				"cu",
+				"currentProgressbarValue"
+			],
+			[
+				"progres",
+				"progress"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"_get",
+				"_getSiteStaffNameFromSiteStaffTitle"
+			],
+			[
+				"site",
+				"siteStaffTitle"
+			],
+			[
+				"deleg",
+				"delegatedTasksTitles"
+			],
+			[
+				"dele",
+				"delegatedTasksTitles"
+			],
+			[
+				"ajax",
+				"ajaxRequestsCount"
+			],
+			[
+				"progress",
+				"progressToAddAtEachCall"
+			],
+			[
+				"clic",
+				"clickedElementContentType"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"inn",
+				"innerViewModel"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"TEX",
+				"text-decoration"
+			],
+			[
+				"Trai",
+				"TrainingTasks"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"new",
+				"newTask"
+			],
+			[
+				"training",
+				"trainingEntryId"
+			],
+			[
+				"icTrainin",
+				"ICTrainingTaskLinkedEntry"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"parent",
+				"parent"
+			],
+			[
+				"ICtra",
+				"ICTrainingTaskLinkedEntry"
+			],
+			[
+				"compl",
+				"completedStatus"
+			],
+			[
+				"Au",
+				"AuthorizationStatusValue"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"viewMo",
+				"viewModelRow"
+			],
+			[
+				"update",
+				"updatedAuthRecord"
+			],
+			[
+				"au",
+				"authorizationId"
+			],
+			[
+				"fak",
+				"fakeAuthRecordOnViewModel"
+			],
+			[
+				"auth",
+				"authRecord"
+			],
+			[
+				"authREc",
+				"authRecordId"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"viewmo",
+				"viewModelRow"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"authre",
+				"authRecords"
+			],
+			[
+				"pend",
+				"pending_record"
+			],
+			[
+				"pen",
+				"pending_record"
+			],
+			[
+				"autho",
+				"authorizationRecordId"
+			],
+			[
+				"authRe",
+				"authRecordId"
+			],
+			[
+				"av",
+				"activityAuthorization"
+			],
+			[
+				"resul",
+				"result2"
+			],
+			[
+				"sc",
+				"scopedSiteStaffId"
+			],
+			[
+				"activ",
+				"activityAuthorizationTitle"
+			],
+			[
+				"_global",
+				"_globalActivityAuthorizations"
+			],
+			[
+				"_se",
+				"_SELECTEDScopeName"
+			],
+			[
+				"tasks",
+				"tasks"
+			],
+			[
+				"sitestaff",
+				"siteStaffForRecordIndex"
+			],
+			[
+				"activityAu",
+				"activityAuthorizationIndex"
+			],
+			[
+				"ICTrai",
+				"ICTrainingTaskLinkedEntry"
+			],
+			[
+				"trainin",
+				"trainingEntry"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"ICAuthre",
+				"ICAuthRecordStatus"
+			],
+			[
+				"Autho",
+				"AuthorizationRecordsForScope"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"inner",
+				"innerModuleTasks"
+			],
+			[
+				"activityau",
+				"activityAuthLenght"
+			],
+			[
+				"iCStf",
+				"IcStudyStaffNamedAccountId"
+			],
+			[
+				"_getAll",
+				"_getAllTasksForUser2"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"act",
+				"activityAuthorization"
+			],
+			[
+				"activity",
+				"activityAuthorization"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tasksdo",
+				"tasksDoneCount"
+			],
+			[
+				"activit",
+				"activity_trainingTypes"
+			],
+			[
+				"_sit",
+				"_scopeSiteStaff"
+			],
+			[
+				"_getAu",
+				"_getAuthorizationRecordsForUserInScope"
+			],
+			[
+				"_com",
+				"__commonCallBack"
+			],
+			[
+				"sitesta",
+				"_scopeSiteStaff"
+			],
+			[
+				"_comm",
+				"_commonCallBackCounter"
+			],
+			[
+				"glo",
+				"_globalActivityAuthorizations"
+			],
+			[
+				"hard",
+				"_HARDCODEDAuthorizationRecordsForAclickScopeMaybeSite"
+			],
+			[
+				"ICStf",
+				"ICStfNamedAccount"
+			],
+			[
+				"sitestaffId",
+				"siteStaffIds"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"plugi",
+				"pluginsOptions"
+			],
+			[
+				"plu",
+				"pluginsOptions"
+			],
+			[
+				"cur",
+				"currentSiteStaffRecord"
+			],
+			[
+				"tota",
+				"total_for_viewModel"
+			],
+			[
+				"pus",
+				"push"
+			],
+			[
+				"arra",
+				"arrayToReturn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.i360.dashboard.js",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows",
+				"name": "<"
+			}
+		},
+		{
+			"file": "/C/Users/rob/Downloads/py8",
+			"settings":
+			{
+				"buffer_size": 581,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\nrequirejs.config({\n    path: {\n        'jquery': '../jquery/jquery'\n    },\n    shim: {\n        'jquery': {\n            exports: '$'\n        }\n    },\n    urlArgs: \"bust=\" + ( new Date() ).getTime()\n});\n\n\nrequire( [ \"jquery\" ], function( $ ) {\n    $( \"body\" ).append( \"hello Sublime Tern\" );\n});\n\n",
+			"file": "js/emmetio-sublime-tern-test/app.js",
+			"file_size": 317,
+			"file_write_time": 130104476509353753,
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "ko.utils.stringStartsWith = function (string, startsWith) {         \n       string = string || \"\";\n    if (startsWith.length > string.length)\n        return false;\n    return string.substring(0, startsWith.length) === startsWith;\n}\n\n/**\n* Namespace for i360\n*\n* @namespace ic.ctmo.core.ui.i360\n* @memberof ic.ctmo.core.ui\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n*\n**/\nic.ctmo.core.ui.i360 =  { };\n\n/**\n* Base class for the questions in i360\n* \n* The namespace ic.ctmo.core.ui is declared in ic.ctmo.core and ic.ctmo.core.ui which are\n* pre-requisites for this script.\n* \n* @class ic.ctmo.core.ui.i360.question\n* @namespace ic.ctmo.core.ui.i360.question\n* @memberof ic.ctmo.core.ui.i360\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n* @requires ic.ctmo.core.ui.i360\n*\n**/\nic.ctmo.core.ui.i360.question = function(fieldId, shortTitle, text, description, required, fieldType, countries, choices, selected)\n{\n    var _self = this;\n\n    /**\n    * The question ID\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.fieldId = fieldId;\n\n    /**\n    * The short title of the question\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.shortTitle = shortTitle;\n\n    /**\n    * The main text of the question\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.text = text;\n\n    /**\n    * The description of the question\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.description = description;\n\n    /**\n    * A Boolean value which indicates whether the question is required.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.required = required;\n\n    /**\n    * The type of the field (e.g. \"tmpl-question-radio\")\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.fieldType = fieldType;\n\n    /**\n    * An array of countries that the question is restricted to.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.countries = countries;\n\n    /**\n    * An array of choices for the question for choice questions.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.choices = choices;\n\n    /**\n    * An array or single value which indicates the selected values in the choices for choice questions.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.question\n    *\n    */  \n    this.selected = selected;\n};\n\n/**\n* Class for the choices.\n* \n* The namespace ic.ctmo.core.ui is declared in ic.ctmo.core and ic.ctmo.core.ui which are\n* pre-requisites for this script.\n* \n* @class ic.ctmo.core.ui.i360.choice\n* @namespace ic.ctmo.core.ui.i360.choice\n* @memberof ic.ctmo.core.ui.i360\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n* @requires ic.ctmo.core.ui.i360\n*\n**/\nic.ctmo.core.ui.i360.choice = function( label, branchTo )\n{\n    /**\n    * The display label for the option\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.choice\n    *\n    */      \n    this.label = label;\n\n    this.branchTo = branchTo;\n};\n\n/**\n* Class for countries\n* \n* The namespace ic.ctmo.core.ui is declared in ic.ctmo.core and ic.ctmo.core.ui which are\n* pre-requisites for this script.\n* \n* @class ic.ctmo.core.ui.i360.country\n* @namespace ic.ctmo.core.ui.i360.country\n* @memberof ic.ctmo.core.ui.i360\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n* @requires ic.ctmo.core.ui.i360\n*\n**/\nic.ctmo.core.ui.i360.country = function(id, name, iso2)\n{\n    /**\n    * The ID of the country\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.country\n    *\n    */      \n    this.id = id;\n\n    /**\n    * The country name.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.country\n    *\n    */  \n    this.name = name;\n\n    /**\n    * The ISO2 value of the country.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.country\n    *\n    */  \n    this.iso2 = iso2;    \n};\n\n/**\n* Class for invitations\n* \n* The namespace ic.ctmo.core.ui is declared in ic.ctmo.core and ic.ctmo.core.ui which are\n* pre-requisites for this script.\n* \n* @class ic.ctmo.core.ui.i360.invitation\n* @namespace ic.ctmo.core.ui.i360.invitation\n* @memberof ic.ctmo.core.ui.i360\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n* @requires ic.ctmo.core.ui.i360\n*\n**/\nic.ctmo.core.ui.i360.invitation = function(id, country, state, city, siteName, investigatorName, dateSent, dateAccessed, cdaStatus, surveyStatus, cvStatus, score)\n{\n    var _self = this;\n\n    this.id = id;\n\n    /**\n    * The country of the site\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.country = country;\n\n    /**\n    * The state of the site\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.state = state;        \n\n    /**\n    * The city of the site\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.city = city;    \n\n    /**\n    * The name of the site\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.siteName = siteName;     \n\n    /**\n    * The name of the investigator\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.investigatorName = investigatorName;\n\n    /**\n    * The date the invitation was sent\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.dateSent = dateSent;    \n\n    /**\n    * The date the invitation was accessed\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.dateAccessed = dateAccessed;    \n\n    /**\n    * The name of the investigator\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.investigatorName = investigatorName;\n\n    /**\n    * The CDA Status\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.cdaStatus = cdaStatus;\n\n    /**\n    * The Survey Status\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.surveyStatus = surveyStatus;\n\n    /**\n    * The CV Status\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.cvStatus = cvStatus;\n\n    /**\n    * The score for this site\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.score = score;\n\n    /**\n    * A Boolean value which indicates whether the invitation is active.\n    *\n    * @property\n    * @memberof ic.ctmo.core.ui.i360.invitation\n    *\n    */  \n    this.selected = false;\n};\n\n/**\n* This file is the main client application for the CTMO i360 Dashbaord application.\n* \n* The namespace ic.ctmo.core.ui is declared in ic.ctmo.core and ic.ctmo.core.ui which are\n* pre-requisites for this script.\n*\n* Portions from: https://github.com/haldun/myformbuilder\n* \n* @class ic.ctmo.core.ui.i360.dashboard\n* @namespace ic.ctmo.core.ui.i360.dashboard\n* @memberof ic.ctmo.core.ui.i360\n*\n* @requires ic\n* @requires ic.ctmo\n* @requires ic.ctmo.core\n* @requires ic.ctmo.core.ui\n* @requires ic.ctmo.core.ui.i360\n*\n**/\nic.ctmo.core.ui.i360.dashboard = (function(){\n\n    /**\n    * Holds an inner reference to this.\n    * \n    * @inner\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    */\n    var _self;\n\n    /**\n    * Holds a reference to the model.\n    * \n    * @inner\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    */\n    var _model;\n\n    /**\n    * Short handle for the namespace.\n    * \n    * @inner\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    */\n    var _i360 = ic.ctmo.core.ui.i360;\n\n    /**\n    * Holds the jQuery UI dialog for ranking.\n    * \n    * @inner\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    */\n    var _rankingDialog;\n\n    /**\n    * Handles the click event which toggles the visibility of a given pane \n    * in the left nav.\n    *\n    * @inner\n    * @method\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    * \n    */\n    var __handleToggleSection = function(e)\n    {\n        var $panel = $(this).parent().next();\n\n        if($panel.is(\":visible\"))\n        {\n            $panel.hide(\"blind\", {}, 200);\n            $(this).text(\"more\");\n        }\n        else\n        {\n            $panel.show(\"blind\", {}, 200);\n            $(this).text(\"less\");\n        }\n    };     \n\n    /**\n    * Handles the drop of a question for the ranking.\n    *\n    * @inner\n    * @method\n    * @memberof ic.ctmo.core.ui.i360.dashboard\n    * \n    */\n    var __handleDropQuestion = function(e, ui)\n    {\n        $(ui.draggable).hide(); // Hide the question\n    };\n\n     var _loadFilteres = function( data, e ) \n        {\n            $.each( $(\"#dataFilters select\"), function( i, select )\n            {\n                if( $( this ).attr( \"prop\") )\n                {\n                    var propt = $( this ).attr(\"id\").substring($( this ).attr(\"id\").indexOf(\"-\") + 1, $( this ).attr(\"id\").length);\n\n                    var mapValues = [];\n                    $.each( _model.invitations(), function( i, n )\n                    {\n                        var valueToTest = n[propt]();                    \n\n                        if( valueToTest && $.inArray( valueToTest, mapValues ) < 0 ) {\n                            mapValues.push( valueToTest );\n                        }                \n                    });\n\n                    mapValues.splice( 0, 0, \"filter by \" + propt );\n                \n                    _model[ $( this ).attr( \"prop\") ]( mapValues );\n                }\n            });\n        };\n\n    // ==========================================\n    // RETURNS THE APPLICATION PUBLIC INTERFACE\n    // ==========================================        \n    return {\n        /**\n        * Initializes the i360 dashboard\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        init: function()\n        {    \n            // Bind events\n            $(\"#ip-left h1 span\").click(__handleToggleSection);\n\n            // Initialize the view.\n            var model = ko.mapping.fromJS(this);\n\n            ko.setTemplateEngine(new ko.nativeTemplateEngine);\n            ko.applyBindings(model);\n\n            _model = model;\n\n            _self = this;     \n\n            _loadFilteres();\n\n            // Load the tab identified by the hash.\n            var hash = window.location.hash;\n\n            if(hash != null)\n            {\n                hash = hash.replace(\"#\", \"\");\n\n                _model.mode(hash); // Load the correct tab\n            }\n            else\n            {\n                _model.mode(\"overview\"); // Load overview by default\n            }\n\n            // UI ACTIONS\n\n            // Make questions draggable\n            // TODO: Move this to binding\n            $(\"#ranking-available-questions .rank-question\").draggable({\n                revert: true,\n                revertDuration: 100,\n                cursor: 'move',\n                opacity: 0.8,\n                start: function(){$(\"#ranking-dropzone\").show();}\n            });\n\n            $(\"#ranking-dropzone\").droppable({\n                accept: \".rank-question\",\n                activeClass: \"active-drop\",\n                hoverClass: \"hover-drop\",\n                deactivate: function(){$(\"#ranking-dropzone\").hide()},\n                drop: __handleDropQuestion\n            });               \n\n            // Set the action button backgrounds\n            $(\".actionButton\").each(function(){\n                $(this).css(\"background-image\", \"url(\" + $(this).attr(\"src\") + \")\");\n            });\n\n            return this;\n        },\n\n        /**\n        * Determines the tab mode.\n        *\n        * @property\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        mode: \"overview\",\n\n        /**\n        * Holds the survey.\n        *\n        * @property\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        survey: { \n            title: \"Enter the Title of Your Survey\",\n            description: \"Enter descriptive text for this survey.\",\n            questions: [\n                // Model samples\n                new _i360.question(\"f1\", null, \"New Question\", \"This is the description\", false, \"tmpl-question-text\"),\n                new _i360.question(\"f2\", null, \"New Question\", \"This is the description\", true, \"tmpl-question-textarea\"),\n                new _i360.question(\"f3\", null, \"New Question\", \"This is the description\", false, \"tmpl-question-select\", null, [new _i360.choice(\"Option 1\"), new _i360.choice(\"Option 2\")] ),\n                new _i360.question(\"f4\", null, null, null, false, \"tmpl-question-divider\"),\n                new _i360.question(\"f5\", null, \"New Question\", \"This is the description\", false, \"tmpl-question-radio\", null, [ new _i360.choice(\"Option 1\"), new _i360.choice(\"Option 2\") ], \"Option 1\" ),\n                new _i360.question(\"f6\", null, \"New Question\", \"This is the description\", false, \"tmpl-question-checkbox\", null, [ new _i360.choice(\"Option 1\"), new _i360.choice(\"Option 2\") ], [ \"Option 1\", \"Option 2\"] )\n            ]\n        },   \n\n        /**\n        * Holds the invitations.\n        *\n        * @property\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        invitations: ko.observableArray( [\n            // id, country, state, city, siteName, investigatorName, dateSent, dateAccessed, cdaStatus, surveyStatus, cvStatus, score\n            new _i360.invitation(1, \"US\", \"NY\", \"New York City\", \"Columbia University Hospital\", \"Alan Lee\", \"5 days ago\", \"3 days ago\", \"Pending\", \"Completed\", \"Approved\", \"92\"),\n            new _i360.invitation(1, \"US\", \"NJ\", \"New Brunswick\",\"Robert Wood Johnson University Hosp.\", \"Susan Leonhardt\", \"5 days ago\", \"N/A\", \"Pending\", \"Pending\", \"Pending\", \"91\"),\n            new _i360.invitation(1, \"US\", \"NJ\", \"West Orange\", \"Kessler Institute for Rehabilitation\", \"Vijay Sharma\", \"5 days ago\", \"1 day ago\", \"Pending\", \"Pending\", \"Pending\", \"90\"),\n            new _i360.invitation(1, \"US\", \"CA\", \"San Diego\", \"Scripps Mercy Hospital\", \"Jason Lambert\", \"5 days ago\", \"4 days ago\", \"Pending\", \"Pending\", \"Approved\", \"85\"),\n            new _i360.invitation(1, \"GB\", \"\", \"London\", \"London Bridge Hospital\", \"James Worthing\", \"5 days ago\", \"3 days ago\", \"Approved\", \"Completed\", \"Pending\", \"81\"),\n            new _i360.invitation(1, \"GB\", \"\", \"London\", \"The Wellington Hospital\", \"Preena Kapur\", \"5 days ago\", \"Today\", \"Pending\", \"Completed\", \"Approved\", \"80\"),\n            new _i360.invitation(1, \"GB\", \"\", \"Watford\", \"Watford General Hospital\", \"Kelly Rogan\", \"5 days ago\", \"Today\", \"Approved\", \"Completed\", \"Approved\", \"79\")\n        ] ),\n\n        invitationsToPresent: ko.observableArray([]),        \n\n        /**\n        * Holds the active question.\n        *\n        * @property\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        activeQuestion: null,\n\n        /**\n        * Holds the active invitation.\n        *\n        * @property\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        activeInvitation: null,\n\n        /**\n        * Loads the clicked tab.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        loadTab: function(data, e)\n        {         \n            type = e.target.href.substring(e.target.href.lastIndexOf('/') + 1); // study, country, or site        \n         \n            _model.mode(type); // Set the view mode\n\n            window.location.hash = type;\n        },\n\n        /**\n        * Creates the survey object in SharePoint and loads the Manage Survey tab.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        createSurvey: function(data, e)\n        {\n            // JSON request to create a new survey object.\n\n            _model.mode(\"survey\");\n        },\n\n        /**\n        * Selects the question.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        selectQuestion: function(data, e)\n        {            \n            if(_model.activeQuestion() == data)\n            {\n                return;\n            }\n\n            _model.activeQuestion(data);\n        },\n\n        /**\n        * Adds an option to the currently selected choice type field\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */        \n        addOption: function(data, e)\n        {\n            data.choices.push({ label: ko.observable(\"New option\") });\n        },\n\n        /**\n        * Removes an option from the list of choices (parent)\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */  \n        removeOption: function(data, e)\n        {\n            _model.activeQuestion().choices.remove(data);\n        },\n\n        /**\n        * Adds a question to the model.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */  \n        addQuestion: function(data, e)\n        {\n            // TODO: Refactor to Unit of Work pattern\n            var type = $(e.target).attr(\"format\");\n            var randomId = Math.floor(Math.random() * 100000);\n            var title = (type == \"divider\" ? null : \"New Question\");\n            var text = (type == \"divider\" ? null : \"New Question\");\n\n            var q = new _i360.question(\"f\" + randomId, title, text, null, false, \"tmpl-question-\" + type);\n\n            if(type == \"select\" || type == \"radio\" || type == \"checkbox\")\n            {\n                q.choices = [ ];\n            }\n\n            _model.survey.questions.push(ko.mapping.fromJS(q));\n        },\n\n        /**\n        * Deletes the selected question.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        deleteQuestion: function(data, e)\n        {\n            // TODO: Refactor to Unit of Work pattern\n            _model.survey.questions.remove(data);\n        },\n\n        /**\n        * Selects the invitation.\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        selectInvitation: function(data, e)\n        {\n            if (_model.activeInvitation() == data)\n            {\n                return;\n            }\n\n            _model.activeInvitation(data);\n        }, \n        \n        /**\n        * Loads the ranking configuration dialog\n        *\n        * @method\n        * @memberof ic.ctmo.core.ui.i360.dashboard\n        *\n        */\n        loadRankingConfiguration: function(data, e)\n        {\n            if(_rankingDialog != null)    \n            {\n                _rankingDialog.dialog(\"open\");\n\n                return;\n            }\n\n            var w = 800;\n            var h = 600;\n\n            _rankingDialog = $(\"#ranking-config\").dialog({\n                    modal: true,\n                    resizable: false,\n                    draggable: false,\n                    title: \"Configure Ranking\",\n                    width: w,\n                    height: h\n                });\n        },\n\n            propComparator: function (prop, direction)\n            {\n                return function (a, b)\n                {\n                    if (direction === \"asc\")\n                    {\n                        if (a[prop] > b[prop]) return 1;\n                        if (a[prop] < b[prop]) return -1;\n                        return 0;\n                    }\n                    else if (direction === \"desc\")\n                    {\n                        if (a[prop] > b[prop]) return -1;\n                        if (a[prop] < b[prop]) return 1;\n                        return 0;\n                    }\n                }\n            },\n\n            sort: function (data, direction, e)\n            {\n                ic.ctmo.core.ui.i360.dashboard.invitationsToPresent.sort(this.propComparator(data, direction));\n            },\n\n            statesList: ko.observableArray([]),\n\n            statesValue: ko.observable(),\n\n            countriesList: ko.observableArray([]),\n\n            countriesValue: ko.observable(),\n\n            cdaStatusList: ko.observableArray([]),\n\n            cdaStatusValue: ko.observable(),\n\n            surveyStatusList: ko.observableArray([]),\n\n            surveyStatusValue: ko.observable(),\n\n            cvStatusList: ko.observableArray([]),\n\n            cvStatusValue: ko.observable()\n    }\n});\n\n",
+			"settings":
+			{
+				"buffer_size": 20681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 5182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 30564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 13148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/i360Dashboard.aspx",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/MilestonesDashboard.aspx",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.i360.dashboard.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smd.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rob/Downloads/authorizationManager.js",
+			"settings":
+			{
+				"buffer_size": 47797,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/rob/Downloads/myformbuilder-master/myformbuilder-master/editor.html",
+			"settings":
+			{
+				"buffer_size": 11162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rob/Downloads/myformbuilder-master/myformbuilder-master/editor.js",
+			"settings":
+			{
+				"buffer_size": 7912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n[ ] depositar a familia\n[ ] mandar factura\n[ ] hacer cuentas\n[ ] innovo\n    [ ] Manage Survey Page\n        [ ] Issue with drag/drop/sortables in IE\n        [ ] Implementing branching configuration \n        [x] Implement country restriction configuration for questions\n            [x] Add flags.css icons to the right for the questions if there are countries\n        [x] Implement other field types\n            [x] File upload needs special attention to look pretty.  See this for example:  http://www.quirksmode.org/dom/inputfile.html\n\n    [ ] Data View Page\n        [x] Make drop down filters pull values from distinct values in the data set.\n        [ ] Make the drop down filters work on the client side data\n            [x] basic algorithm\n            [ ] mutually exclusive filters (review this with charles) \n        [ ] Augment data model to include the \"Site Details\" information for each Site (they are pulled from our default data so you can just put some data in there)\n        [ ] Add sorting to the headers - use icons &uarr; and &darr;\n            [x] basic sort\n            [ ] styles\n            [ ] dynamic approach\n\n[ ] ckluster",
+			"file": "/C/Users/rob/Desktop/heap.txt",
+			"file_size": 1068,
+			"file_write_time": 130101047899759843,
+			"settings":
+			{
+				"buffer_size": 1148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<head>meta http-equiv=\"X-UA-Compatible\" content=\"IE=8\">meta name=\"GENERATOR\"\n<content=\"Microsoft SharePoint\">meta name=\"progid\"\n<content=\"SharePoint.WebPartPage.Document\">meta http-equiv=\"Content-Type\"\n<content=\"text/html; charset=utf-8\">meta http-equiv=\"Expires\"\ncontent=\"0\">title>\n    \n    i360 Dashboard\n\n</title><link rel=\"stylesheet\" type=\"text/css\"\nhref=\"/_layouts/1033/styles/Thema\nble/layouts.css?rev=aTcoNUf8p1YiDzYCg3%2FLIw%3D%3D\"> <link rel=\"stylesheet\"\ntype=\"text/css\"\nhref=\"/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gM\nGz4rekMIQg%3D%3D\"> <link rel=\"stylesheet\" type=\"text/css\"\nhref=\"/StyleArtifacts/roche.css\">\n\n<script type=\"text/javascript\">     var _fV4UI = true;     </script><style\ntype=\"text/css\"></style>     <script type=\"text/javascript\"> // <![CDATA[\ndocument.write('<script type=\"text/javascript\"\nsrc=\"/_layouts/1033/init.debug.js?rev=B4Q3tt3QkOze%2BQphyiO%2FZg%3D%3D\"></' +\n'script>'); document.write('<script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.util.js\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ribbonbuttondisablecheck.js\"></' +\n'script>'); document.write('<script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.ui.custommenu.js\"></' +\n'script>'); document.write('<script type=\"text/javascript\"         src=\"/Scrip\ntResource.axd?d=URxIhNeD68MY24NvUWs7ue2saUE7yBWGzqYa8zl929tacq9cTgUPX\nbsJKqxpX_NDdrwkh7lNAfgOl_AOczCg1D15t3WNX8Fxe3PSKdIvLYg-8jepQ0xTd7Ww-\neSCE9tC9xNRa\n5JgNs_EW6tRcb7U7b5KWBpBquDyJtDct1AiLtCM4ubD0&amp;t=ffffffffb868b5f4\"></' +\n'script>'); document.write('<script type=\"text/javascript\"\nsrc=\"/_layouts/blank.debug.js?rev=jE3bS2JFTB63z3iWgauX9w%3D%3D\"></' +\n'script>'); document.write('<script type=\"text/javascript\"\nsrc=\"/ScriptResource.axd?d=as1xGVHX6wx42GL-\nYfJnQnhNEVgCLaRS1eQVyDhfkpe9k1Ml21QSi         rrP1AyqMFu6LLE9OPpLEZB6n8H_MTFUA\nVCx8oZKeruv87YToKICNKVzgWs2KMm95senkLexhYgBMqfzK\nU3GhGtYDgDIIAsKVucgVayZl3qPsy1fByTxPivytjOa0&amp;t=ffffffffb868b5f4\"></' +\n'script>'); // ]]> </script><script type=\"text/javascript\"\nsrc=\"/_layouts/1033/i\nnit.debug.js?rev=B4Q3tt3QkOze%2BQphyiO%2FZg%3D%3D\"></script><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.util.js\"></script><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.common/scripts/jquery/jquery.js\"></script><link\nrel=\"stylesheet\" type=\"text/css\"\nhref=\"/_layouts/ic.ctmo.web/styles/ctmo/ic.ctmo.core.css\"><link\nrel=\"stylesheet\"         type=\"text/css\"\nhref=\"/_layouts/ic.ctmo.common/styles/aristo/aristo.css\"><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ribbonbuttondisab\nlecheck.js\"></script><script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/s\ncripts/ctmo/ic.ctmo.core.ui.custommenu.js\"></script><script\ntype=\"text/javascript\"\nsrc=\"/ScriptResource.axd?d=URxIhNeD68MY24NvUWs7ue2saUE7yB\nWGzqYa8zl929tacq9cTgUPXbsJKqxpX_NDdrwkh7lNAfgOl_AOczCg1D15t3WNX8Fxe3PSKdIvLYg-\n8jepQ0xTd7Ww-\neSCE9tC9xNRa5JgNs_EW6tRcb7U7b5KWBpBquDyJtDct1AiLtCM4ubD0&amp;t=ffff\nffffb868b5f4\"></script><script type=\"text/javascript\"         src=\"/_layouts/b\nlank.debug.js?rev=jE3bS2JFTB63z3iWgauX9w%3D%3D\"></script><script\ntype=\"text/javascript\" src=\"/ScriptResource.axd?d=as1xGVHX6wx42GL-\nYfJnQnhNEVgCLa         RS1eQVyDhfkpe9k1Ml21QSirrP1AyqMFu6LLE9OPpLEZB6n8H_MTFUA\nVCx8oZKeruv87YToKICNKVzgW         s2KMm95senkLexhYgBMqfzKU3GhGtYDgDIIAsKVucgVa\nyZl3qPsy1fByTxPivytjOa0&amp;t=ffffff         ffb868b5f4\"></script> <link\ntype=\"text/xml\" rel=\"alternate\"         href=\"/_vti_bin/spsdisco.aspx\">\n<style type=\"text/css\">         <link         rel=\"stylesheet\" type=\"text/css\"\nhref=\"/_layouts/ic.ctmo.common/styles/aristo/aristo.css?ver=$ic_build_ver$\"/>\n\n        <!--[if IE]>         <style type=\"text/css\">           .clearfix {\nzoom: 1;     /* triggers hasLayout */             display: block;     /*\nresets display for IE/Win */             }  /* Only IE can see inside the\nconditional comment             and read this CSS rule. Don't ever use a\nnormal HTML comment inside the CC or it will close prematurely. */\n</style> <!--[endif]---->\n\n\n\n\n\n\n    <!--// [ START KO TEMPLATES ] //-->     <!--// Portions from:\nhttps://github.com/haldun/myformbuilder //-->\n\n    <!--// ============= Manage Survey ============= //-->     <!--// Base\ntemplate for each question //-->     <script type=\"text/html\" id=\"tmpl-\nquestion\">         <li class=\"question clearfix\" data-bind=\"click:\n$root.selectQuestion, css: { 'active-question': $data ==\n$root.activeQuestion() }\">             <div class=\"question-text\" data-\nbind=\"text: text, css: {     'required-question': required }\"></div>\n<div class=\"question-input\"     data-bind=\"template: fieldType\"></div>\n<span class=\"question-desc\"     data-bind=\"text: description\"></span>\n<a href=\"\" data-bind=\"click:     $root.deleteQuestion\">delete</a>\n</li>               </script>\n\n    <!--// Template for input type=\"text\" //-->     <script type=\"text/html\"\nid     =\"tmpl-question-text\">         <input class=\"input\" type=\"text\"/>\n</script>\n\n    <!--// Template for input textarea //-->     <script type=\"text/html\" id\n=\"tmpl-question-textarea\">         <textarea class=\"input\"></textarea>\n</script>\n\n    <!--// Template for select //-->     <script type=\"text/html\" id=\"tmpl-\nquestion-select\">         <select data-bind=\"options: choices, optionsText:\n'label', optionsValue: 'label', optionsCaption: 'Select...'\"\nclass=\"input\"></select>     </script>\n\n    <!--// Template for input type=\"radio\" //-->     <script type=\"text/html\"\nid     =\"tmpl-question-radio\">         <div data-bind=\"foreach: choices\">\n<label><input type=\"radio\" data-bind=\"attr: { name: $parent.fieldId, value:\nlabel }, checked: $parent.selected\"/> <span data-bind=\"text:\nlabel\"></span></label>         </div>     </script>\n\n        <!--// Template for input type=\"checkbox\" //-->     <script\ntype=\"text/html\"         id=\"tmpl-question-checkbox\">         <div data-\nbind=\"foreach: choices\">         <label><input type=\"checkbox\" data-\nbind=\"attr: { name: $parent.fieldId, value:             label }, checked:\n$parent.selected\"/> <span data-bind=\"text:             label\"></span></label>\n</div>     </script>\n\n            <!--// Template for hr //-->     <script type=\"text/html\" id\n=\"tmpl-question-             divider\">         <hr class=\"page-divider\" />\n<a href=\"\">delete</a>             </script>\n\n            <!--// Template active question editor //-->     <script\ntype=\"text/html\" id             =\"tmpl-question-editor\">         <div data-\nbind=\"'if': $data != null\">     <!--// [START] Common editors //-->\n\n            <!--// Short title for the question //-->             <div class\n=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n<label for=\"short-title\">Short Title</label>                 <input class\n=\"property-input\" type=\"text\" id=\"short-title\" name=\"short-title\" data-\nbind=\"value: shortTitle\" />             </div>\n\n            <!--// Detailed text for the question //-->             <div class\n=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n<label for=\"display-text\">Question</label>                 <textarea class\n=\"property-input\" id=\"display-text\" name=\"display-text\" data-bind=\"value:\ntext\"></textarea>             </div>\n\n            <!--// Descriptive text displayed below the input //-->\n<div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-\ndivider'\">                 <label for=\"descriptive-text\">Description</label>\n<textarea class=\"property-input\" id=\"descriptive-text\" name=\"descriptive-text\"\ndata-bind=\"value: description\"></textarea>             </div>\n\n            <!--// Required question //-->             <div class=\"property-\nset\"             data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n<label for=\"is-required\">Required</label>                 <div\nclass=\"property-             values-container\">                     <input\ntype=\"checkbox\" id=\"is-required\"             name=\"is-required\" data-\nbind=\"checked: required\"/> <span style=\"vertical-align:\nmiddle\">Response is required</span>                 </div>             </div>\n\n            <!--// Restrict by country //-->             <div class=\"property-\nset\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n<label for=\"is-required\">Show Only For</label>                 <div class\n=\"property-values-container\">                     <select class=\"property-\ninput\">                         <option></option>             <option>United\nStates</option>                         <option>Canada</option>\n</select>                     <!--// Display the current countries //-->\n<ul id=\"countries\" class=\"values-list\">\n<li><span>Germany</span><div class=\"delete-option\"><img\nsrc=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n<li><span>France</span><div class=\"delete-option\"><img\nsrc=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>             </ul>\n</div>                               </div>\n\n            <!--// [START] Specific editors for the question type //-->\n<div class=\"property-set\" data-bind=\"visible: typeof choices != 'undefined'\">\n<label>Options</label>                 <div class=\"property-values-container\"\ndata-bind=\"'if': typeof choices != 'undefined'\">                     <div\ndata-             bind=\"foreach: choices\">                         <div class\n=\"property-input-             value\"><input type=\"text\" data-bind=\"value:\n$data.label\" /><div class=\"delete-             option\" data-bind=\"click:\n$root.removeOption.bind($data)\"><img\nsrc=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></div>             </div>\n<input type=\"button\" class=\"actionButton\" value=\"Add             Option\" data-\nbind=\"click: $root.addOption\" style=\"background-image:\nurl('/_layouts/ic.ctmo.web/images/add.png')\"/>                  </div>\n</div>\n\n            <div class=\"property-set\" data-bind=\"visible: typeof choices !=\n'undefined'\">                 <label>Branch</label>                 <div class\n=\"property-values-container\">                     <span>When value is <span\nclass=\"branch-on-value\">Choice 1</span> branch to:</span><br/>\n<select class=\"property-input\">                         <option></option>\n<option>This is the body of the question</option>             <option>This is\nan example of a dropdown choice</option>             <option>Etc</option>\n</select>                     <!--//             Display the current branches\n//-->                     <ul id=\"branches\" class             =\"values-list\">\n<li><span>Choice 2</span> &rarr;             <span>Question text...</span>\n<div class=\"delete-option\"><img\nsrc=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n<li><span>Choice 3</span> &rarr; <span>This other question...</span> <div\nclass             =\"delete-option\"><img\nsrc=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>             </ul>\n</div>                                             </div>             </div>\n</script>\n\n            <!--// ============= Data View ============= //-->     <!--//\nRecord for             each invitation //-->     <script type=\"text/html\" id\n=\"tmpl-invitation\">             <tr data-bind=\"css: { 'alt' : $index() % 2 ==\n0, 'active': $data ==             $root.activeInvitation() }, click:\n$root.selectInvitation\">             <td             class=\"c000\" data-\nbind=\"text: $index() + 1\"></td>             <td class=\"c010\"             data-\nbind=\"text: country\"></td>             <td class=\"c020\" data-bind=\"text:\nstate\"></td>             <td class=\"c030\" data-bind=\"text: city\"></td>\n<td class=\"c040\" data-bind=\"text: siteName\"></td>             <td class=\"c050\"\ndata-bind=\"text: investigatorName\"></td>             <td class=\"c060\" data-\nbind=\"text: dateSent\"></td>             <td class=\"c070\" data-bind=\"text:\ndateAccessed\"></td>             <td class=\"c080\" data-bind=\"text:\ncdaStatus\"></td>             <td class=\"c090\" data-bind=\"text:\nsurveyStatus\"></td>             <td class=\"c100\" data-bind=\"text:\ncvStatus\"></td>             <td class=\"c110\" data-bind=\"text: score\"></td>\n<td class=\"c120\">                 <a href=\"\">remind</a>                 <a\nhref=\"\">remove</a>             </td>         </tr>     </script>\n\n\n            <link             rel=\"shortcut icon\"\nhref=\"/_layouts/images/favicon.ico\"\ntype=\"image/vnd.microsoft.icon\">\n\n            <link rel=\"stylesheet\" type=\"text/css\" href=\"/_l\nayouts/ic.ctmo.web/styles/ctmo/ic.ctmo.i360.dashboard.css?ver=6aea1e69fac9\">\n\n            <lin             k rel=\"stylesheet\" type=\"text/css\"             hr\nef=\"/_layouts/ic.ctmo.web/styles/ctmo/ic.ctmo.core.css?ver=6aea1e69fac9\"><link\nrel=\"stylesheet\" type=\"text/css\"\nhref=\"/_layouts/1033/styles/themable/forms.css\"><script type=\"text/javascript\"\ns             rc=\"/_layouts/ic.ctmo.common/scripts/jquery/jquery.js?ver=6aea1e\n69fac9\"></script             ><script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.common/scripts/jqueryui/j\nqueryui.js?ver=6aea1e69fac9\"></script><script type=\"text/javascript\"\nsrc=\"/_layo             uts/ic.ctmo.common/scripts/jquery/jquery.tmpl.js?ver=6\naea1e69fac9\"></script>\n\n<scr             ipt type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.common/scripts/ko/ko.js?ver=6a\nea1e69fac9\"></script>\n\n\n            <script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.commo\nn/scripts/ko/ko.mapping.js?ver=6aea1e69fac9\"></script><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.common/scripts/date/date.js?ver=6a\nea1e69fac9\"></script><script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.commo\nn/scripts/date/humaneDate.js?ver=6aea1e69fac9\"></script><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.js?v\ner=6aea1e69fac9\"></script><script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.\nweb/scripts/ctmo/ic.ctmo.core.ui.js?ver=6aea1e69fac9\"></script><script\ntype=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.common/scripts/ko/ko.sortable.js?v\ner=6aea1e69fac9\"></script><script type=\"text/javascript\"\nsrc=\"/_layouts/ic.ctmo.             web/scripts/ctmo/ic.ctmo.core.ui.i360.dash\nboard.js?ver=6aea1e69fac9\"></script><s             tyle type=\"text/css\">\n.s4-skipribbonshortcut { display:none; }             .zz1_TopNavigationMenu_0\n{ background-\ncolor:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px;\n}                 .zz1_TopNavigationMenu_1 { text-decoration:none; }\n.zz1_TopNavigationMenu_2                 {  }     .zz1_TopNavigationMenu_3 {\nborder-style:none; }                 .zz1_TopNavigationMenu_4 {  }\n.zz1_TopNavigationMenu_5 {  }                 .zz1_TopNavigationMenu_6 {\nborder-style:none; }     .zz1_TopNavigationMenu_7 {                 }\n.zz1_TopNavigationMenu_8 { background-color:#F2F3F4;border-color:#A7B4CE\n;border-width:1px;border-style:solid; }     .zz1_TopNavigationMenu_9 { border-\nstyle:none; }     .zz1_TopNavigationMenu_10 {  }     .zz1_TopNavigationMenu_11\n{                             border-style:none; }\n.zz1_TopNavigationMenu_12 {  }\n.zz1_TopNavigationMenu_13 { border-style:none; }     .zz1_TopNavigationMenu_14\n{                             }     .zz1_TopNavigationMenu_15 { border-\nstyle:none; }                             .zz1_TopNavigationMenu_16 {\nbackground-color:#CBE3F0; }\n\n                            </style>\n\n                            <script type=\"text/javascript\"\n                            <src=\"/_layouts/1033/core.debug.js?rev=e%2BEyz0v6e\n                            <sJzW%2BbeQkvhvQ%3D%3D\">/script> script\n                            <type=\"text/javascript\" src=\"/_layouts/sp.core.deb\n                            <ug.js?rev=Qp5K7ycU%2FEY9IvE0KOi7zQ%3D%3D\">/script\n                            <> script type=\"text/javascript\"\n                            <src=\"/_layouts/ScriptResx.ashx?culture=en%2Dus&am\n                            <p;name=SP%2ERes&amp;rev=b6%2FcRx1a6orhAQ%2FcF%2B0\n                            <ytQ%3D%3D\">/script>script type=\"text/javascript\" \n                            <src=\"/_layouts/cui.debug.js?rev=%2BhQl2NTQMTydPiv\n                            <dG%2Bq% 2FdA%3D%3D\">/script>script\n                            <type=\"text/javascript\"\n                            <src=\"/_layouts/sp.ui.dialog.d ebug.js?rev=I4Rtkzt\n                            <zINg%2B%2BPCPe%2FeQlw%3D%3D\">/script>script\n                            <type=\"text/javascript\" src=\"/_layouts/sp.runtime.\n                            <debug.js?rev=f2An00kVlALdMLzcB\n                            <c1cug%3D%3D\">/script>script\n                            <type=\"text/javascript\" src=\"/_layouts/sp.debug.js\n                            <?rev=F%2Bs7eTnRf6i0w%2B4cIrpWPg%3D%3D\">/script>sc\n                            <ript type=\"text/javascript\" src=\"/_layouts/inplvi\n                            <ew.debug.js?rev=fyL0TR2Uy1hHDzdBRq0\n                            <X9g%3D%3D\">/script>script type=\"text/javascript\"\n                            <src=\"/_layouts/sp.ribbon.debug .js?rev=lc6eCMZP6g\n                            <L5LnuSYh0S6Q%3D%3D\">/script>script\n                            <type=\"text/javascript\" src =\"/_layouts/socialdata\n                            <.js?rev=srp8t6aZS%2FjdrW3%2FJrn1iQ%3D%3D\">/script\n                            <>script type=\"text/javascript\" src=\"/_layouts/sp.\n                            <ui.socialribbon.js?rev=q7gLNDKo68UsaWo\n                            <Ec%2FZCug%3D%3D\">/script>/head>\n",
+			"settings":
+			{
+				"buffer_size": 17303,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<head><meta http-equiv=\"X-UA-Compatible\" content=\"IE=8\"><meta name=\"GENERATOR\" content=\"Microsoft SharePoint\"><meta name=\"progid\" content=\"SharePoint.WebPartPage.Document\"><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"><meta http-equiv=\"Expires\" content=\"0\"><title>\n    \ni360 Dashboard\n\n</title><link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/1033/styles/Themable/layouts.css?rev=aTcoNUf8p1YiDzYCg3%2FLIw%3D%3D\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/1033/styles/Themable/corev4.css?rev=3TRomkG1g2gMGz4rekMIQg%3D%3D\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/StyleArtifacts/roche.css\">\n\n    <script type=\"text/javascript\">\n    var _fV4UI = true;\n    </script><style type=\"text/css\"></style>\n    <script type=\"text/javascript\">\n// <![CDATA[\ndocument.write('<script type=\"text/javascript\" src=\"/_layouts/1033/init.debug.js?rev=B4Q3tt3QkOze%2BQphyiO%2FZg%3D%3D\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.util.js\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ribbonbuttondisablecheck.js\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.ui.custommenu.js\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/ScriptResource.axd?d=URxIhNeD68MY24NvUWs7ue2saUE7yBWGzqYa8zl929tacq9cTgUPXbsJKqxpX_NDdrwkh7lNAfgOl_AOczCg1D15t3WNX8Fxe3PSKdIvLYg-8jepQ0xTd7Ww-eSCE9tC9xNRa5JgNs_EW6tRcb7U7b5KWBpBquDyJtDct1AiLtCM4ubD0&amp;t=ffffffffb868b5f4\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/_layouts/blank.debug.js?rev=jE3bS2JFTB63z3iWgauX9w%3D%3D\"></' + 'script>');\ndocument.write('<script type=\"text/javascript\" src=\"/ScriptResource.axd?d=as1xGVHX6wx42GL-YfJnQnhNEVgCLaRS1eQVyDhfkpe9k1Ml21QSirrP1AyqMFu6LLE9OPpLEZB6n8H_MTFUAVCx8oZKeruv87YToKICNKVzgWs2KMm95senkLexhYgBMqfzKU3GhGtYDgDIIAsKVucgVayZl3qPsy1fByTxPivytjOa0&amp;t=ffffffffb868b5f4\"></' + 'script>');\n// ]]>\n</script><script type=\"text/javascript\" src=\"/_layouts/1033/init.debug.js?rev=B4Q3tt3QkOze%2BQphyiO%2FZg%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.util.js\"></script><script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/jquery/jquery.js\"></script><link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/ic.ctmo.web/styles/ctmo/ic.ctmo.core.css\"><link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/ic.ctmo.common/styles/aristo/aristo.css\"><script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ribbonbuttondisablecheck.js\"></script><script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.ui.custommenu.js\"></script><script type=\"text/javascript\" src=\"/ScriptResource.axd?d=URxIhNeD68MY24NvUWs7ue2saUE7yBWGzqYa8zl929tacq9cTgUPXbsJKqxpX_NDdrwkh7lNAfgOl_AOczCg1D15t3WNX8Fxe3PSKdIvLYg-8jepQ0xTd7Ww-eSCE9tC9xNRa5JgNs_EW6tRcb7U7b5KWBpBquDyJtDct1AiLtCM4ubD0&amp;t=ffffffffb868b5f4\"></script><script type=\"text/javascript\" src=\"/_layouts/blank.debug.js?rev=jE3bS2JFTB63z3iWgauX9w%3D%3D\"></script><script type=\"text/javascript\" src=\"/ScriptResource.axd?d=as1xGVHX6wx42GL-YfJnQnhNEVgCLaRS1eQVyDhfkpe9k1Ml21QSirrP1AyqMFu6LLE9OPpLEZB6n8H_MTFUAVCx8oZKeruv87YToKICNKVzgWs2KMm95senkLexhYgBMqfzKU3GhGtYDgDIIAsKVucgVayZl3qPsy1fByTxPivytjOa0&amp;t=ffffffffb868b5f4\"></script>\n<link type=\"text/xml\" rel=\"alternate\" href=\"/_vti_bin/spsdisco.aspx\">\n    <style type=\"text/css\">\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/ic.ctmo.common/styles/aristo/aristo.css?ver=$ic_build_ver$\"/>\n\n        <!--[if IE]>\n        <style type=\"text/css\">\n          .clearfix {\n            zoom: 1;     /* triggers hasLayout */\n            display: block;     /* resets display for IE/Win */\n            }  /* Only IE can see inside the conditional comment\n            and read this CSS rule. Don't ever use a normal HTML\n            comment inside the CC or it will close prematurely. */\n        </style>\n        <!--[endif]---->        \n\n\n        \n\n    \n\n    <!--// [ START KO TEMPLATES ] //-->\n    <!--// Portions from: https://github.com/haldun/myformbuilder //-->\n\n    <!--// ============= Manage Survey ============= //-->\n    <!--// Base template for each question //-->\n    <script type=\"text/html\" id=\"tmpl-question\">\n        <li class=\"question clearfix\" data-bind=\"click: $root.selectQuestion, css: { 'active-question': $data == $root.activeQuestion() }\">\n            <div class=\"question-text\" data-bind=\"text: text, css: { 'required-question': required }\"></div>\n            <div class=\"question-input\" data-bind=\"template: fieldType\"></div>\n            <span class=\"question-desc\" data-bind=\"text: description\"></span>\n            <a href=\"\" data-bind=\"click: $root.deleteQuestion\">delete</a>\n        </li>          \n    </script>\n\n    <!--// Template for input type=\"text\" //-->\n    <script type=\"text/html\" id=\"tmpl-question-text\">\n        <input class=\"input\" type=\"text\"/>\n    </script>    \n\n    <!--// Template for input textarea //-->\n    <script type=\"text/html\" id=\"tmpl-question-textarea\">\n        <textarea class=\"input\"></textarea>        \n    </script>      \n\n    <!--// Template for select //-->\n    <script type=\"text/html\" id=\"tmpl-question-select\">\n        <select data-bind=\"options: choices, optionsText: 'label', optionsValue: 'label', optionsCaption: 'Select...'\" class=\"input\"></select>\n    </script>      \n\n    <!--// Template for input type=\"radio\" //-->\n    <script type=\"text/html\" id=\"tmpl-question-radio\">\n        <div data-bind=\"foreach: choices\">\n            <label><input type=\"radio\" data-bind=\"attr: { name: $parent.fieldId, value: label }, checked: $parent.selected\"/> <span data-bind=\"text: label\"></span></label>\n        </div>\n    </script>             \n\n    <!--// Template for input type=\"checkbox\" //-->\n    <script type=\"text/html\" id=\"tmpl-question-checkbox\">\n        <div data-bind=\"foreach: choices\">\n            <label><input type=\"checkbox\" data-bind=\"attr: { name: $parent.fieldId, value: label }, checked: $parent.selected\"/> <span data-bind=\"text: label\"></span></label>\n        </div>\n    </script> \n\n    <!--// Template for hr //-->\n    <script type=\"text/html\" id=\"tmpl-question-divider\">\n        <hr class=\"page-divider\" />\n        <a href=\"\">delete</a>\n    </script>   \n\n    <!--// Template active question editor //-->\n    <script type=\"text/html\" id=\"tmpl-question-editor\">\n        <div data-bind=\"'if': $data != null\">\n            <!--// [START] Common editors //-->\n\n            <!--// Short title for the question //-->\n            <div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n                <label for=\"short-title\">Short Title</label>\n                <input class=\"property-input\" type=\"text\" id=\"short-title\" name=\"short-title\" data-bind=\"value: shortTitle\" />\n            </div>\n\n            <!--// Detailed text for the question //-->\n            <div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n                <label for=\"display-text\">Question</label>\n                <textarea class=\"property-input\" id=\"display-text\" name=\"display-text\" data-bind=\"value: text\"></textarea>\n            </div>\n\n            <!--// Descriptive text displayed below the input //-->\n            <div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n                <label for=\"descriptive-text\">Description</label>\n                <textarea class=\"property-input\" id=\"descriptive-text\" name=\"descriptive-text\" data-bind=\"value: description\"></textarea>\n            </div>\n\n            <!--// Required question //-->\n            <div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n                <label for=\"is-required\">Required</label>\n                <div class=\"property-values-container\">\n                    <input type=\"checkbox\" id=\"is-required\" name=\"is-required\" data-bind=\"checked: required\"/> <span style=\"vertical-align: middle\">Response is required</span>\n                </div>\n            </div>\n\n            <!--// Restrict by country //-->\n            <div class=\"property-set\" data-bind=\"visible: fieldType() != 'tmpl-question-divider'\">\n                <label for=\"is-required\">Show Only For</label>\n                <div class=\"property-values-container\">\n                    <select class=\"property-input\">\n                        <option></option>\n                        <option>United States</option>\n                        <option>Canada</option>\n                    </select>\n                    <!--// Display the current countries //-->\n                    <ul id=\"countries\" class=\"values-list\">\n                        <li><span>Germany</span><div class=\"delete-option\"><img src=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n                        <li><span>France</span><div class=\"delete-option\"><img src=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n                    </ul>\n                </div>                  \n            </div>            \n\n            <!--// [START] Specific editors for the question type //-->\n            <div class=\"property-set\" data-bind=\"visible: typeof choices != 'undefined'\">\n                <label>Options</label>\n                <div class=\"property-values-container\" data-bind=\"'if': typeof choices != 'undefined'\">\n                    <div data-bind=\"foreach: choices\">\n                        <div class=\"property-input-value\"><input type=\"text\" data-bind=\"value: $data.label\" /><div class=\"delete-option\" data-bind=\"click: $root.removeOption.bind($data)\"><img src=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></div>\n                    </div>\n                    <input type=\"button\" class=\"actionButton\" value=\"Add Option\" data-bind=\"click: $root.addOption\" style=\"background-image: url('/_layouts/ic.ctmo.web/images/add.png')\"/> \n                </div>\n            </div>\n\n            <div class=\"property-set\" data-bind=\"visible: typeof choices != 'undefined'\">\n                <label>Branch</label>\n                <div class=\"property-values-container\">\n                    <span>When value is <span class=\"branch-on-value\">Choice 1</span> branch to:</span><br/>\n                    <select class=\"property-input\">\n                        <option></option>\n                        <option>This is the body of the question</option>\n                        <option>This is an example of a dropdown choice</option>\n                        <option>Etc</option>\n                    </select>\n                    <!--// Display the current branches //-->\n                    <ul id=\"branches\" class=\"values-list\">\n                        <li><span>Choice 2</span> &rarr; <span>Question text...</span> <div class=\"delete-option\"><img src=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n                        <li><span>Choice 3</span> &rarr; <span>This other question...</span> <div class=\"delete-option\"><img src=\"/_layouts/ic.ctmo.web/images/cross.png\"/></div></li>\n                    </ul>\n                </div>                                \n            </div>        \n        </div>\n    </script>   \n\n    <!--// ============= Data View ============= //-->\n    <!--// Record for each invitation //-->\n    <script type=\"text/html\" id=\"tmpl-invitation\">\n        <tr data-bind=\"css: { 'alt' : $index() % 2 == 0, 'active': $data == $root.activeInvitation() }, click: $root.selectInvitation\">\n            <td class=\"c000\" data-bind=\"text: $index() + 1\"></td>\n            <td class=\"c010\" data-bind=\"text: country\"></td>\n            <td class=\"c020\" data-bind=\"text: state\"></td>\n            <td class=\"c030\" data-bind=\"text: city\"></td>\n            <td class=\"c040\" data-bind=\"text: siteName\"></td>\n            <td class=\"c050\" data-bind=\"text: investigatorName\"></td>\n            <td class=\"c060\" data-bind=\"text: dateSent\"></td>\n            <td class=\"c070\" data-bind=\"text: dateAccessed\"></td>\n            <td class=\"c080\" data-bind=\"text: cdaStatus\"></td>\n            <td class=\"c090\" data-bind=\"text: surveyStatus\"></td>\n            <td class=\"c100\" data-bind=\"text: cvStatus\"></td>\n            <td class=\"c110\" data-bind=\"text: score\"></td>\n            <td class=\"c120\">\n                <a href=\"\">remind</a>\n                <a href=\"\">remove</a>\n            </td>\n        </tr>\n    </script>\n<link rel=\"shortcut icon\" href=\"/_layouts/images/favicon.ico\" type=\"image/vnd.microsoft.icon\">\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/ic.ctmo.web/styles/ctmo/ic.ctmo.i360.dashboard.css?ver=6aea1e69fac9\"><link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/ic.ctmo.web/styles/ctmo/ic.ctmo.core.css?ver=6aea1e69fac9\">\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"/_layouts/1033/styles/themable/forms.css\">\n\n\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/jquery/jquery.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/jqueryui/jqueryui.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/jquery/jquery.tmpl.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/ko/ko.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/ko/ko.mapping.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/date/date.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/date/humaneDate.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.ui.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.common/scripts/ko/ko.sortable.js?ver=6aea1e69fac9\"></script>\n<script type=\"text/javascript\" src=\"/_layouts/ic.ctmo.web/scripts/ctmo/ic.ctmo.core.ui.i360.dashboard.js?ver=6aea1e69fac9\"></script>\n<style type=\"text/css\">\n    .s4-skipribbonshortcut { display:none; }\n    .zz1_TopNavigationMenu_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }\n    .zz1_TopNavigationMenu_1 { text-decoration:none; }\n    .zz1_TopNavigationMenu_2 {  }\n    .zz1_TopNavigationMenu_3 { border-style:none; }\n    .zz1_TopNavigationMenu_4 {  }\n    .zz1_TopNavigationMenu_5 {  }\n    .zz1_TopNavigationMenu_6 { border-style:none; }\n    .zz1_TopNavigationMenu_7 {  }\n    .zz1_TopNavigationMenu_8 { background-color:#F2F3F4;border-color:#A7B4CE;border-width:1px;border-style:solid; }\n    .zz1_TopNavigationMenu_9 { border-style:none; }\n    .zz1_TopNavigationMenu_10 {  }\n    .zz1_TopNavigationMenu_11 { border-style:none; }\n    .zz1_TopNavigationMenu_12 {  }\n    .zz1_TopNavigationMenu_13 { border-style:none; }\n    .zz1_TopNavigationMenu_14 {  }\n    .zz1_TopNavigationMenu_15 { border-style:none; }\n    .zz1_TopNavigationMenu_16 { background-color:#CBE3F0; }\n\n</style><script type=\"text/javascript\" src=\"/_layouts/1033/core.debug.js?rev=e%2BEyz0v6esJzW%2BbeQkvhvQ%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.core.debug.js?rev=Qp5K7ycU%2FEY9IvE0KOi7zQ%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=b6%2FcRx1a6orhAQ%2FcF%2B0ytQ%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/cui.debug.js?rev=%2BhQl2NTQMTydPivdG%2Bq%2FdA%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.ui.dialog.debug.js?rev=I4RtkztzINg%2B%2BPCPe%2FeQlw%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.runtime.debug.js?rev=f2An00kVlALdMLzcBc1cug%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.debug.js?rev=F%2Bs7eTnRf6i0w%2B4cIrpWPg%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/inplview.debug.js?rev=fyL0TR2Uy1hHDzdBRq0X9g%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.ribbon.debug.js?rev=lc6eCMZP6gL5LnuSYh0S6Q%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/socialdata.js?rev=srp8t6aZS%2FjdrW3%2FJrn1iQ%3D%3D\"></script><script type=\"text/javascript\" src=\"/_layouts/sp.ui.socialribbon.js?rev=q7gLNDKo68UsaWoEc%2FZCug%3D%3D\"></script></head>",
+			"settings":
+			{
+				"buffer_size": 16385,
+				"line_ending": "Windows",
+				"name": "<head><meta http-equiv=\"X-UA-Compatible\" content=\""
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rob/Desktop/emmetio-sublime-tern-test/emmetio-sublime-tern-test.sublime-project",
+		"/C/Users/rob/Desktop/emmetio-sublime-tern-test/css/meyer-reset.css",
+		"/C/Users/rob/Desktop/department search",
+		"/C/Users/rob/Desktop/googletalk.log.bz2",
+		"/C/Users/rob/bk/susa - reporte 2/cradashboard.aspx",
+		"/C/Users/rob/Downloads/jQuery-Visualize-master/jQuery-Visualize-master/js/example-filtering.js",
+		"/C/Users/rob/bk/susa - reporte 2/mierda.html",
+		"/C/Users/rob/bk/susa - reporte 2/css/visualize-light.css",
+		"/C/Users/rob/bk/susa - reporte 2/js/example-filtering - static-rob.js",
+		"/C/Users/rob/Downloads/jQuery-Visualize-master/jQuery-Visualize-master - rob/filtering - static-rob.html",
+		"/C/Users/rob/Desktop/response example.js",
+		"/C/Users/rob/Downloads/authorizationManager.js",
+		"/C/Users/rob/Downloads/AuthorizationManager.aspx",
+		"/C/Users/rob/Desktop/rob-td.txt",
+		"/C/Users/rob/Downloads/jQuery-Visualize-master/jQuery-Visualize-master/filtering.html",
+		"/C/Users/rob/bk/SusarReports/SusarReports.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.ajaxApi.js",
+		"/C/Users/rob/Downloads/jQuery-Visualize-master/jQuery-Visualize-master - rob/js/example-filtering - static-rob.js",
+		"/C/Users/rob/Downloads/jQuery-Visualize-master/jQuery-Visualize-master - rob/filtering.html",
+		"/C/Users/rob/Desktop/css.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/authorization-manager/authorizationManager.css",
+		"/C/Users/rob/Desktop/ic.prototype.css-back.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/AuthorizationManager.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smd.js",
+		"/C/Users/rob/Desktop/demo RPD cred.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/authorization-manager/authorizationManager.js",
+		"/C/Users/rob/Desktop/authManager.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/MilestonesDashboard.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.milestone.dashboard.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.js.bak",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smd.reports.milestoneDurationTracking.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.util.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.jquery-popover.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.audit.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.customMenu.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.ext.entityIdProvider.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.ext.entitySelector.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.ext.productCatalog.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.milestonesCopier.js",
+		"/C/Users/rob/Desktop/proto-deferred.js -backup.js",
+		"/C/Users/rob/Desktop/some save.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.userEventRegistryManagement.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/Proto-deferred.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/Proto.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/AuditReport.aspx",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/js/proto/proto.js",
+		"/C/Users/rob/Desktop/public-event-mockup.html",
+		"/C/Users/rob/Desktop/ko-virtuals.html",
+		"/C/Users/rob/Desktop/testingcodestyles.html",
+		"/C/Users/rob/Desktop/example.html",
+		"/C/Users/rob/Desktop/sample-service-call.html",
+		"/C/Users/rob/Desktop/testingcodestyles - Copy.html",
+		"/C/Users/rob/Desktop/2.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/proto/ic.proto.css",
+		"/C/Users/rob/Desktop/asfsadfdasf.txt",
+		"/C/Users/rob/Desktop/authorization manager proposals.7z",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/js/proto/proto-deferred.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/css/proto/ic.prototype.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/css/proto/ic.proto.css",
+		"/C/Users/rob/Desktop/departamento.txt",
+		"/C/Users/rob/Desktop/api yelp.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/Proto/old proto view model markup",
+		"/C/Users/rob/Desktop/type-script-reading.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.upcomingMilestones-Template.html",
+		"/C/Users/rob/Desktop/output.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/advanced-search/AdvancedSearchTemplate.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/advanced-search/advancedSearch.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/advanced-search/search-main.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.core.css",
+		"/C/Users/rob/Desktop/search proposal.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smartForm.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.siteFacilitySelector.js",
+		"/C/Users/rob/Desktop/gdeapproach.js",
+		"/C/Users/rob/Desktop/chart libraries research.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/advanced-search/AdvancedSearch.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.gde.siteStaffSelector.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.gde.css",
+		"//vm1/14/TEMPLATE/FEATURES/IC.CTMO.CoreRegistry/GuidedDataEntry/GdeNew.aspx",
+		"//vm1/14/TEMPLATE/FEATURES/IC.CTMO.CoreRegistry/GuidedDataEntry/GdeEdit.aspx",
+		"/C/Users/rob/Documents/test-ie-html5.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/yui-test.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.milestoneDeviation-Template.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.milestoneDurationTracking-Template.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.recruitmentDeviation-Template.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.studyEnrollment-Template.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Templates/ctmo/ic.ctmo.core.ui.smd.reports.studyMilestoneSummary-Template.html",
+		"/C/Users/rob/Desktop/foofa.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/advanced-search/facade.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Common/Scripts/ko/ko.mapping.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Common/Scripts/ko/ko.js",
+		"/C/Users/rob/Downloads/main.js",
+		"/C/Users/rob/Desktop/jsjsjsjs.js",
+		"/C/Users/rob/Desktop/js.js",
+		"/C/Users/rob/Desktop/advance-search-JSOM.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smd.reports.studyMilestoneSummary.js",
+		"/C/Users/rob/Desktop/monday February 25.txt",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.audit.css",
+		"/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.util.js.bak",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.core.ui.smd.reports.studyMilestoneSummary.css",
+		"/C/Users/rob/Desktop/_gdeActiveRulesCached.js",
+		"/C/Users/rob/Desktop/foo.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.audit.aristo.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.staffStudyHistory.js",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.core.ui.staffStudyHistoryContainer.css",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.audit.ie.css",
+		"/C/Users/rob/Documents/InnovoCommerce/code/GetSingleAuditEntry.cs",
+		"/C/Users/rob/workspace/robsimdo/assets/www/css/index.css",
+		"/C/Users/rob/workspace/robsimdo/assets/www/index.html",
+		"/C/Users/rob/workspace/robsimdo/assets/www/cordova-2.3.0.js",
+		"/C/Users/rob/workspace/robsimdo/assets/www/main.js",
+		"/C/Users/rob/Documents/labs/radio-button-ie8/radio-button-ie8.html",
+		"//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Common/Scripts/jqueryui/jqueryui.js",
+		"/C/Users/rob/Downloads/jquery-ui-1.10.0.custom/jquery-ui-1.10.0.custom/js/jquery-ui-1.10.0.custom.min.js",
+		"/C/Users/rob/workspace/robsimdo/assets/www/js/index.js",
+		"/C/Users/rob/Desktop/ckluster events .txt",
+		"//vm1/14/LOGS/VM1-20130130-1403.log",
+		"/C/Users/rob/Downloads/jquery-ui-1.10.0.custom/jquery-ui-1.10.0.custom/js/jquery-1.9.0.js",
+		"/C/Users/rob/Documents/labs/localization.html",
+		"/C/Users/rob/Documents/labs/localization.html.txt",
+		"/C/Windows/System32/Drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctrl+shift+o",
+			"ctrl+shift+u",
+			"ctrl+shift+n",
+			"ctrl+shift+i",
+			"ctrl+shift+f",
+			"ctrl+shift+t",
+			"ctrl+shift+d",
+			"ctrl+shift+c",
+			"ctrl+shift+b",
+			"ctrl+shift+a",
+			"ctrl+shift+c",
+			"ctrl+shift+r",
+			"ctrl+r",
+			"ctrl+j",
+			"tern",
+			"ternjs",
+			"tern",
+			"THEME",
+			"question",
+			"countriesValue",
+			"value",
+			"filteredInvitationsComputedTest",
+			"foo",
+			"change",
+			"active",
+			" \">",
+			"activeChoice",
+			"activeQuestion",
+			"branche",
+			": ",
+			"activeQuestion",
+			"selected",
+			"choice",
+			"choce",
+			"activeQuestion",
+			"optionsText",
+			"question",
+			"questions",
+			"survey.questions",
+			"survey",
+			"question",
+			"options",
+			"questions",
+			"choice",
+			"option",
+			"selectChoice",
+			"root.",
+			"function(",
+			"bind",
+			"click",
+			"tmpl-question",
+			"tmpl-question-radio",
+			"radio",
+			"choices",
+			"choice",
+			"selectQuestion",
+			"select",
+			"choice",
+			"branch",
+			"-date",
+			"-data",
+			"console",
+			"propp",
+			"prop",
+			"select",
+			"console.log",
+			"questions",
+			"question",
+			"tmpl-question",
+			"DATE",
+			"click",
+			"init",
+			"tmpl-question",
+			"countries",
+			"flags",
+			"css",
+			"tmpl-question-country",
+			"template",
+			"tmpl-question-country",
+			"template",
+			"template:",
+			"template",
+			"iso2",
+			"countries",
+			"iso2",
+			"removeOption",
+			"countries.push",
+			"selectedCountry",
+			"countries",
+			"question",
+			"survey.questions",
+			"tmpl-question",
+			"selectQuestion",
+			"selectQuestion\nselectQuestion",
+			"selectQuestion",
+			"countries",
+			"selectQuestion",
+			"activeQuestion",
+			"model",
+			"activeQuestion",
+			"on(",
+			"question",
+			"tmpl-Question-editor",
+			"tmpl-question-editor",
+			"ranking-available-questions",
+			"__handle",
+			"question",
+			"country",
+			"label",
+			"activeQuestion",
+			"tmpl-question-editor",
+			"options",
+			"availableCOuntries",
+			"invitations",
+			"country",
+			"invitations",
+			"countries",
+			"country",
+			"countries",
+			"show only for",
+			"countries",
+			"country",
+			"show",
+			"ic.ctmo.core.ui.i360.dashboard.filteredInvitationsComputedTest",
+			"console.",
+			"doHas",
+			"_prepareFilters",
+			"_loadFilteres"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"filtersToListen",
+			"mapValues",
+			"vm",
+			"activityAuthorizationWithTheRecordToUpdate",
+			"viewModelRecordToUpdate",
+			"newTasks",
+			"pendingRecord",
+			"_selectedScopeName",
+			"authorizationManager",
+			"Scripts/ctmo/authorization-manager",
+			"images/authorization-manager",
+			"humaneDate",
+			"dateGranted",
+			"/_layouts/ic.ctmo.web/images/proto/",
+			"// fail silent alert",
+			"12px",
+			"// console.log",
+			"namedSiteStaffList",
+			"hard_coded_view_model",
+			"total_for_viewModel",
+			"AuthorizationName",
+			"susers",
+			"filter",
+			"\"",
+			"appliedFilters",
+			"selectedListId",
+			"parentContainer",
+			"table.version-history table, .event-data-text table",
+			"_eventDataDialog",
+			"_showVersionFieldValue",
+			"completeVersionFieldValue",
+			"AuditRecordItemId",
+			"showEventData",
+			"_showEventData",
+			"radioSelectedId"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.i360.dashboard.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/rob/Downloads/py8",
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/emmetio-sublime-tern-test/app.js",
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/index.css",
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 20681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 5182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 30564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2892,
+								2903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 487.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/rob/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 13148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12455,
+								12459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 34.0,
+						"translation.y": 5744.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/i360Dashboard.aspx",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2444.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Pages/MilestonesDashboard.aspx",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Styles/CTMO/ic.ctmo.i360.dashboard.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "//vm1/14/TEMPLATE/LAYOUTS/IC.CTMO.Web/Scripts/ctmo/ic.ctmo.core.ui.smd.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/rob/Downloads/authorizationManager.js",
+					"settings":
+					{
+						"buffer_size": 47797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10144,
+								10149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4416.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/rob/Downloads/myformbuilder-master/myformbuilder-master/editor.html",
+					"settings":
+					{
+						"buffer_size": 11162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4833,
+								4833
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 196.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/C/Users/rob/Downloads/myformbuilder-master/myformbuilder-master/editor.js",
+					"settings":
+					{
+						"buffer_size": 7912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5838,
+								5840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3711.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/C/Users/rob/Desktop/heap.txt",
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"settings":
+					{
+						"buffer_size": 17303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13076,
+								13076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"settings":
+					{
+						"buffer_size": 16385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14146,
+								12869
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<head><meta http-equiv=\"X-UA-Compatible\" content=\"",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
